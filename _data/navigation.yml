@@ -1,0 +1,12 @@
+# main links
+main:
+  - title: "Home"
+    url: /about/home
+  - title: "Members"
+    url: /about/members
+  - title: "Projects"
+    url: /projects/
+  - title: "Publications"
+    url: /publications/
+  - title: "Software"
+    url: /software/
