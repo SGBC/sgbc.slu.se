@@ -3,7 +3,7 @@ main:
   - title: "Home"
     url: /about/home
   - title: "Members"
-    url: /about/members
+    url: /members/
   - title: "Projects"
     url: /projects/
   - title: "Publications"
