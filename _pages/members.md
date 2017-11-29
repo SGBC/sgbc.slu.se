@@ -3,7 +3,7 @@ layout: single
 permalink: /members/
 ---
 
-* **Dr. Erik Bongcam-Rudloff** is in charge of undergraduate bioinformatics
+* **Professor Erik Bongcam-Rudloff** is in charge of undergraduate bioinformatics
 education at SLU and main supervisor for 7 and co-supervisor for 4 PhD
 students. He is also the head of the SLU Global Bioinformatics Centre.
 
@@ -11,8 +11,10 @@ students. He is also the head of the SLU Global Bioinformatics Centre.
 SLUBI platform. She is a PhD in Bioinformatics and a big fan of
 metagenomics and viruses.
 
-* **Tomas Klingström** is a PhD student at the SGBC. His interests lie in
-biobanking, DNA handling best practises and bioethics.
+* **Dr. Tomas Klingström** is a researcher at the SGBC. His interests lie in
+developing tools to integrate bioinformatics, molecular biology and data
+sharing into a comphrehensive informatics platform called the eB3Kit as a
+member of the B3Africa project (www.b3africa.org). 
 
 * **Hadrien Gourlé** is a PhD student at the SGBC. His PhD is about assessing
 the anthropogenic impact in coral reefs. he is an open source enthusiast with
