@@ -2,6 +2,8 @@
 main:
   - title: "Home"
     url: /
+  - title: "News"
+    url: /news/
   - title: "Members"
     url: /members/
   - title: "Projects"
