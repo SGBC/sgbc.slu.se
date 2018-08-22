@@ -33,12 +33,16 @@ plugins:
 
 repository: "SGBC/sgbc.slu.se"
 
-include: ["_pages"]
+include: ["_pages", "_posts"]
 
 collections:
     publications:
         output: true
         permalink: /:collection/:path/
+    news:
+        output: true
+        permalink: /:collection/:path/
+
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
 # to override the default setting.
