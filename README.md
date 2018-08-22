@@ -34,7 +34,7 @@ git subtree push --prefix _site origin web
 ```shell
 cd ~/github/sgbc.slu.se
 git checkout web && git pull
-mv web/* /var/www/default/
+sudo cp -r --update * /var/www/default
 sudo chown -R root:apache /var/www/default/
 sudo chcon -R --reference=/var/www /var/www/default/
 ```
